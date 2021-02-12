@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewtavis&theme=react&hide=Stata&layout=compact" />
 </a>
 --->
-
+<!---
 <details><summary><strong>Useful Gists<strong></summary>
 <p>
 
@@ -14,3 +14,4 @@
 
 </p>
 </details>
+--->
