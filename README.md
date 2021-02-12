@@ -12,7 +12,7 @@
 
 [vscode-conda](https://gist.github.com/andrewtavis/f2f10ed96ac2425ae85d3c97b9c1a9eb)
   
-  - Details how to set up VS Code with Anaconda venvs and notebooks
+  - Details how to set up VS Code with Anaconda virtual environments and Jupyter notebooks
 
 </p>
 </details>
