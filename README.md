@@ -1,4 +1,4 @@
-Front-end developer and data scientist focussing on NLP, causal inference and recommendation engines.
+Data scientist focussing on NLP, causal inference and recommendation engines.
 
 WIP: freelance and learning [Rust](https://www.rust-lang.org/)/[WASM](https://webassembly.org/)
 
