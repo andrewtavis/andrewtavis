@@ -1,4 +1,4 @@
-<!--Fullstack developer and-->
+<!--Full stack developer and-->
 
 Data scientist focussing on NLP, causal inference and recommendation engines.
 
