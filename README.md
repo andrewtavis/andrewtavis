@@ -1,5 +1,5 @@
-Data scientist focussing on NLP, causal inference and recommendation engines.
+<!--Fullstack developer and-->
 
-WIP: freelance and learning [Rust](https://www.rust-lang.org/)/[WASM](https://webassembly.org/)
+Data scientist focussing on NLP, causal inference and recommendation engines.
 
 Education: Humboldt University of Berlin (MS); University of Oregon (BA)
