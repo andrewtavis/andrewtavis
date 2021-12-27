@@ -8,4 +8,4 @@
 
 Scribe's current project is Scribe-iOS, a pack of iOS and iPadOS keyboards for language learners. Features include translation (beta), verb conjugation and word annotation that give users the tools needed to communicate with confidence.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scribe-org&repo=Scribe-iOS&show_owner=true&bg_color=d2d2d2&icon_color=646464&text_color=646464)](https://github.com/scribe-org/Scribe-iOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scribe-org&repo=Scribe-iOS&show_owner=true&bg_color=f2f2f2f&icon_color=646464&text_color=646464)](https://github.com/scribe-org/Scribe-iOS)
