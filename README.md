@@ -1,4 +1,4 @@
-# Organizations Founded
+## Organizations Founded
 
 ### [Scribe: Open-source Language Solutions](https://github.com/scribe-org)
 
