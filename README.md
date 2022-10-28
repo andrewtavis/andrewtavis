@@ -1,7 +1,7 @@
-## Organizations Founded
+## Organizations Initiated
 
 <div align="center">
-  <a href="https://github.com/scribe-org/"><img src="https://raw.githubusercontent.com/scribe-org/Organization/main/logo/ScribeAppLogo.png" width=384 height=173 alt="Scribe Logo"></a>
+  <a href="https://github.com/scribe-org/"><img src="https://raw.githubusercontent.com/scribe-org/Organization/main/logo/ScribeLogoRounded.png" width=384 height=173 alt="Scribe Logo"></a>
 </div>
 
 ### [Scribe: Open-source Language Solutions](https://github.com/scribe-org)
