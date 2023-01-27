@@ -10,7 +10,7 @@
 </div></td>
  </tr>
   <tr>
-    <td><a href="https://activist.org">activist.org</a> is an open-source, non-profit network for political action. The current goal is the creation of a platform to find and discover political events and organizations.
+    <td><a href="https://activist.org">activist.org</a> is an open-source, non-profit political action network. The current goal is the creation of a platform to find and discover political events and organizations.
 </td>
     <td><a href="https://github.com/scribe-org/">Scribe</a> provides language learners with keyboard apps that include translation, verb conjugation and word annotation for confident communication without leaving the keyboard.</td>
  </tr>
