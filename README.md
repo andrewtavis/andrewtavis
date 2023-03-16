@@ -2,7 +2,7 @@
 
 <ul>
 
-<li><a href="https://github.com/activist-org"><img src="https://raw.githubusercontent.com/activist-org/Organization/main/logo/activistLogoRounded.png" width="20%" alt="activist Logo" align="right"></a>
+<li><a href="https://github.com/activist-org"><img src="https://raw.githubusercontent.com/activist-org/Organization/main/logos/activistLogoRounded.png" width="20%" alt="activist Logo" align="right"></a>
 
 <a href="https://github.com/activist-org">activist</a> is an open-source, non-profit political action network. The current goal is the creation of <a href="https://activist.org">activist.org</a>, a platform to find and discover political events and organizations.
 
