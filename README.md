@@ -9,7 +9,7 @@
 <a href="https://github.com/activist-org">activist</a> is an open-source, non-profit political action network. The current goal is the creation of <a href="https://activist.org">activist.org</a>, a platform to find and discover political events and organizations.
 
 <ul>
-    <li><a href="https://github.com/activist-org/activist">activist</a> (web) • <a href="https://github.com/activist-org/activist-Android">activist-Android</a> • <a href="https://github.com/activist-org/activist-iOS">activist-iOS</a></li>
+    <li><a href="https://github.com/activist-org/activist">activist</a> • <a href="https://github.com/activist-org/activist-Android">activist-Android</a> • <a href="https://github.com/activist-org/activist-iOS">activist-iOS</a></li>
 </ul>
 
 </li>
