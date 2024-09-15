@@ -9,7 +9,7 @@
 <a href="https://github.com/activist-org">activist</a> is an open-source, non-profit political action network. The current goal is the creation of <a href="https://activist.org">activist.org</a>, a platform to find and discover political events and organizations.
 
 <ul>
-    <li><a href="https://github.com/activist-org/activist">activist</a> • <a href="https://github.com/activist-org/i18n-check-action">i18n-check-action</a></li>
+    <li>Projects: <a href="https://github.com/activist-org/activist">activist</a> • <a href="https://github.com/activist-org/i18n-check-action">i18n-check</a></li>
 </ul>
 
 </li>
@@ -21,7 +21,7 @@
 <a href="https://github.com/scribe-org">Scribe</a> creates keyboard apps for language learners that include translation, verb conjugation and word annotation for confident communication without leaving the keyboard.
 
 <ul>
-    <li><a href="https://github.com/scribe-org/Scribe-iOS">Scribe-iOS</a> • <a href="https://github.com/scribe-org/Scribe-Android">Scribe-Android</a> • <a href="https://github.com/scribe-org/Scribe-Desktop">Scribe-Desktop</a> • <a href="https://github.com/scribe-org/Scribe-Data">Scribe-Data</a></li>
+    <li>Projects: <a href="https://github.com/scribe-org/Scribe-iOS">iOS</a> • <a href="https://github.com/scribe-org/Scribe-Android">Android</a> • <a href="https://github.com/scribe-org/Scribe-Desktop">Desktop</a> • <a href="https://github.com/scribe-org/Scribe-Data">Data</a></li>
 </ul>
 
 </li>
