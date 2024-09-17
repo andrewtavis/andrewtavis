@@ -21,7 +21,7 @@
 <a href="https://github.com/scribe-org">Scribe</a> creates keyboard apps for language learners that include translation, verb conjugation and word annotation for confident communication without leaving the keyboard.
 
 <ul>
-    <li>Projects: <a href="https://github.com/scribe-org/Scribe-iOS">iOS</a> • <a href="https://github.com/scribe-org/Scribe-Android">Android</a> • <a href="https://github.com/scribe-org/Scribe-Desktop">Desktop</a> • <a href="https://github.com/scribe-org/Scribe-Data">Data</a></li>
+    <li>Projects: <a href="https://github.com/scribe-org/Scribe-iOS">Scribe-iOS</a> • <a href="https://github.com/scribe-org/Scribe-Android">Scribe-Android</a> • <a href="https://github.com/scribe-org/Scribe-Data">Scribe-Data</a> • <a href="https://github.com/scribe-org/Scribe-Desktop">Scribe-Desktop</a></li>
 </ul>
 
 </li>
