@@ -1,4 +1,4 @@
-## Organizations initiated
+## Organizations Initiated
 
 <ul>
 
@@ -29,3 +29,8 @@
 </li>
 
 </ul>
+
+## Open Source Mentoring
+
+- [Outreachy](https://www.outreachy.org/) mentor (Rounds: 29, 30)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) mentor (Years: 2023, 2024)
