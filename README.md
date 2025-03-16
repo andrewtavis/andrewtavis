@@ -22,7 +22,6 @@
 
 <ul>
     <li>Keyboards: <a href="https://github.com/scribe-org/Scribe-iOS">Scribe-iOS</a> • <a href="https://github.com/scribe-org/Scribe-Android">Scribe-Android</a> • <a href="https://github.com/scribe-org/Scribe-Desktop">Scribe-Desktop</a></li>
-    <li>Conjugation: <a href="https://github.com/scribe-org/Conjugate-iOS">Conjugate-iOS</a> • <a href="https://github.com/scribe-org/Conjugate-Android">Conjugate-Android</a></li>
     <li>Infrastructure: <a href="https://github.com/scribe-org/Scribe-Data">Scribe-Data</a> • <a href="https://github.com/scribe-org/Scribe-Server">Scribe-Server</a> • <a href="https://github.com/scribe-org/Scribe-i18n">Scribe-i18n</a> • <a href="https://github.com/scribe-org/scri.be">scri.be</a></li>
 </ul>
 
