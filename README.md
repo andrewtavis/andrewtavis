@@ -31,5 +31,5 @@
 
 ## Open Source Mentoring
 
-- [Outreachy](https://www.outreachy.org/) cohorts: Dec 2024, Jun 2025
-- [Google Summer of Code](https://summerofcode.withgoogle.com/) programs: 2023, 2024
+- [Outreachy](https://www.outreachy.org/): Dec 2024, Jun 2025
+- [Google Summer of Code](https://summerofcode.withgoogle.com/): 2023, 2024
