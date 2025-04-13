@@ -35,7 +35,7 @@
 
 <li>
 
-<a href="https://github.com/andrewtavis/flag-of-america"><img src="./resources/flag_of_america_rounded.png" width="20%" alt="Flag of America" align="right"></a>
+<a href="https://github.com/andrewtavis/flag-of-america"><img src="https://raw.githubusercontent.com/andrewtavis/andrewtavis/main/resources/flag_of_america_rounded.png" width="20%" alt="Flag of America" align="right"></a>
 
 The <a href="https://github.com/andrewtavis/flag-of-america">Flag of America</a> is a symbolic representation of America. Its purpose is to support the unity of all Americans in their struggle towards ever greater collaboration and political integration.
 
