@@ -35,7 +35,7 @@
 
 <li>
 
-<a href="https://github.com/andrewtavis/flag-of-america"><img src="https://raw.githubusercontent.com/andrewtavis/andrewtavis/main/resources/flag/flag_of_america_rounded.svg" width="20%" alt="Flag of America" align="right"></a>
+<a href="https://github.com/andrewtavis/flag-of-america"><img src="https://raw.githubusercontent.com/andrewtavis/andrewtavis/main/resources/flag_of_america_rounded.svg" width="20%" alt="Flag of America" align="right"></a>
 
 I'm the lead designer for both the <a href="https://github.com/activist-org">activist</a> and <a href="https://github.com/scribe-org">Scribe</a> communities.
 
