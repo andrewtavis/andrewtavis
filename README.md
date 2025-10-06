@@ -45,15 +45,11 @@ I'm the lead designer for both the <a href="https://github.com/activist-org">act
 
 The <a href="https://github.com/andrewtavis/flag-of-america">Flag of America</a> is a symbolic representation of the [Americas](https://en.wikipedia.org/wiki/Americas). Its purpose is to support the unity of all Americans in their struggle towards ever greater collaboration and political integration.
 
-<ul>
-    <li>Files on Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Flag_of_America.svg">Flag</a> • <a href="https://commons.wikimedia.org/wiki/File:Flag_of_America_Symbol.svg">Symbol</a> • <a href="https://commons.wikimedia.org/wiki/File:Flag_of_America_Design_Specification.svg">Design Specification</a></li>
-</ul>
-
 </li>
 
 </ul>
 
 ## Open Source Mentoring
 
-- [Outreachy](https://www.outreachy.org/): Dec 2024, Jun 2025
+- [Outreachy](https://www.outreachy.org/): Dec 2024, Jun 2025, Dec 2025
 - [Google Summer of Code](https://summerofcode.withgoogle.com/): 2023, 2024
