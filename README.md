@@ -32,4 +32,4 @@
 ## Open Source Mentoring
 
 - [Outreachy](https://www.outreachy.org/): Round 29, Round 30, Round 31
-- [Google Summer of Code](https://summerofcode.withgoogle.com/): 2023, 2024
+- [Google Summer of Code](https://summerofcode.withgoogle.com/): 2023, 2024, 2026
