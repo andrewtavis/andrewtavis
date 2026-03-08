@@ -18,7 +18,7 @@
 
 <a href="https://github.com/scribe-org"><img src="https://raw.githubusercontent.com/scribe-org/Organization/main/logo/ScribeLogoRounded.png" width="20%" alt="Scribe Logo" align="right"></a>
 
-<a href="https://github.com/scribe-org">Scribe</a> creates [Wikidata](https://www.wikidata.org/) and [Wiktionary](https://www.wiktionary.org/) based applications for language learners that include translation, verb conjugation and word annotation for confident communication in any app.
+<a href="https://github.com/scribe-org">Scribe</a> creates [Wikidata](https://www.wikidata.org/) and [Wiktionary](https://www.wiktionary.org/) based applications for language learners that include translation, verb conjugation and word annotation for confident communication.
 
 <ul>
     <li>Applications: <a href="https://github.com/scribe-org/Scribe-iOS">Scribe-iOS</a> • <a href="https://github.com/scribe-org/Scribe-Android">Scribe-Android</a> • <a href="https://github.com/scribe-org/Scribe-Desktop">Scribe-Desktop</a></li>
